@@ -1,4 +1,4 @@
-# Semester Project - Build A Virtual Operating System Simulator
+# Virtual Operating System Simulator Replicating POSIX Architecture
 
 **Project Description**
 
